@@ -1,0 +1,16 @@
+
+out/
+target/
+
+*.class
+
+
+*.war
+
+.idea/
+WEB-INF/
+WebServiceSOAPJ2EE.iml
+src/main/resources/
+src/test/
+web/
+
